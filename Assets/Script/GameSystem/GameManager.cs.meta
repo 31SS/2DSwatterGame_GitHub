@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c4d64a73abaedc14ba2f70038d7e4f84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - panel: {instanceID: 0}
+  - text: {instanceID: 0}
+  - gameClearCanvasPrefab: {fileID: 8327095288368709488, guid: b65ca30b3f2f29c4bb19ef1764f6813f,
+      type: 3}
+  - gameOverCanvasPrefab: {fileID: 8252788030934670014, guid: e07800afa8e1d014587c185ca1677859,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

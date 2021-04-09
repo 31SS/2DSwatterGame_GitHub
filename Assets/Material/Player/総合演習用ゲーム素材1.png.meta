@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: 1bddd62b4bd751e4499888fc4ea182d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8142845494434375802
+    second: Enemy_Devil
+  - first:
+      213: -2228608588883884478
+    second: Enemy_Bug
+  - first:
+      213: -3962462295504776674
+    second: Enemy_Battery
+  - first:
+      213: -782838553496280526
+    second: Block_Rectangle
+  - first:
+      213: 3856782164167594868
+    second: Enemy_Dragon
+  - first:
+      213: -4276808434177296962
+    second: Enemy_Shell
+  - first:
+      213: -443967385154392241
+    second: Hand
+  - first:
+      213: -8431834275034313635
+    second: "\u7DCF\u5408\u6F14\u7FD2\u7528\u30B2\u30FC\u30E0\u7D20\u67501_7"
+  - first:
+      213: -4870075212810892099
+    second: Enemy_Devil
+  - first:
+      213: 5394785708652844931
+    second: Enemy_Bug
+  - first:
+      213: -1572416815323379743
+    second: Enemy_Battery
+  - first:
+      213: -5922390094425683427
+    second: Block_Rectangle
+  - first:
+      213: -3166085275785094750
+    second: Enemy_Dragon
+  - first:
+      213: 579328577785272319
+    second: Enemy_Shell
+  - first:
+      213: -7538117637183611615
+    second: Hand
+  - first:
+      213: -4870075212810892099
+    second: "\u7DCF\u5408\u6F14\u7FD2\u7528\u30B2\u30FC\u30E0\u7D20\u67501_0"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u7DCF\u5408\u6F14\u7FD2\u7528\u30B2\u30FC\u30E0\u7D20\u67501_0"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 277
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcc8fe85640a6cb0800000000000000
+      internalID: -4870075212810892099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bug
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 288
+        width: 105
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3875b9be4012eda40800000000000000
+      internalID: 5394785708652844931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Battery
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 238
+        width: 114
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e78ccbcc37ad2ae0800000000000000
+      internalID: -1572416815323379743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block_Rectangle
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 206
+        width: 163
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a077856917fcda0800000000000000
+      internalID: -5922390094425683427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Dragon
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 49
+        width: 219
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a91c30673ecf04d0800000000000000
+      internalID: -3166085275785094750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Shell
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 207
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff79f17a5403a0800800000000000000
+      internalID: 579328577785272319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 56
+        width: 79
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d509892f9336790800000000000000
+      internalID: -7538117637183611615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
